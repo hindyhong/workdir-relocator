@@ -1,5 +1,7 @@
 # workdir-relocator
 
+![workdir-relocator banner](banner.png)
+
 > 把 AI Agent / 编程工具的工作目录透明迁移到其他磁盘。
 > 原路径保留为软链接，应用完全无感知。
 
