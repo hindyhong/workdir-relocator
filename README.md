@@ -1,5 +1,7 @@
 # workdir-relocator
 
+![workdir-relocator banner](banner.png)
+
 > Move an AI agent / coding tool's working directory to another disk transparently.
 > The original path stays as a symlink, so the application never notices.
 
